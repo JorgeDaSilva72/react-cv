@@ -55,7 +55,7 @@ export const portfolioData = [
     languages: ['javascript','react', 'css'],
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'https://github.com/JorgeDaSilva72/JorgeDaSilva72.github.io',
-    site: 'https://cvdejorgedasilva1.netlify.app/',
+    site: 'https://cvdejorgedasilva.netlify.app/',
     info: "Projet React dans lequel j'ai réalisé mon CV sous la forme d’une Single Page Application",
     picture: './media/project6.JPG'
   },
